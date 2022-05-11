@@ -6,7 +6,7 @@
 Calculo do IMC foi criado para colocar os conhecimentos adquiridos nas aulas com a escola da Alura em prática no site www.alura.com.br .
 O projeto consiste em calcular o IMC através dos dados informados com o nome da pessoa, filtrar e apagar com dois cliques.
 
-##Layout Web
+## Layout Web
 ![web] https://github.com/tianopo/calculo-do-imc/blob/main/assets/web.png
 
 # Tecnologias utilizadas
